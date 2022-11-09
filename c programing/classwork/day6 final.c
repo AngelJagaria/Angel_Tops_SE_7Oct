@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main ()
+void main()
 {
 	int h,e;
 	char a[10]="angel";
