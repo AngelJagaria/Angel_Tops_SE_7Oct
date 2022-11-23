@@ -1,11 +1,11 @@
 #include<stdio.h>
 void main()
 {
-	int a[5]= {20,29,20,30,45};
+	int a[5]= {20,29,2,30,45};
 	int i;
-	for (i=0;i<5;i++);
+	for (i=0;i<=4;i++)
 	{
-		printf("%d\t",a[i]);
+		printf("%d",a[i]);
 	}
 }
-note erroe ave che compile ma zeroj batave che 
+ 
