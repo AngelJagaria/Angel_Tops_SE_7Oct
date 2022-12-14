@@ -15,7 +15,7 @@ class A
 		}
 	
 };
-class B: public A
+class B : public A
 {
 public:
 	int b;
@@ -56,7 +56,7 @@ int main()
 	obj1.getC();
 	obj1.showA();
 	obj1.showB();
-	obj1.showC();
+	obj1.showC(); 
 	return 0;
 	
 	
